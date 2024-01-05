@@ -51,7 +51,7 @@ public class Calendar0 {
 			if (isLeapYear(year))
 				return 29;
 			else
-				return 30;
+				return 28;
 		}
 		return 31;
 	}
